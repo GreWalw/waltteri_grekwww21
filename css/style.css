@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(255, 222, 164);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;   
+    color:rgb(43, 0, 0)
+}
+h1 {
+    border-bottom: 2px solid rgb(80, 65, 24);
+    color: red;
+    font-size: 16px;
+}
+a {
+    color:rgb(26, 224, 0);
+    text-decoration:underline;
+
+}
+a:hover{
+    color: rgb(24, 122, 0);
+}
+figure {
+   float: left;
+    text-align: center;
+    font-style: italic;
+    font-size:smaller;
+
+}
